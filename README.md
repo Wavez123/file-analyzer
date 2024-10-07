@@ -3,5 +3,5 @@ this is a tool I built to analyze files in a specified directory and return what
 1. download the project
 2. run the sql_db_generator.py
   this will create a new db using media.db
-3. run main.py
+3. run gui.py
   looking over the interface, connect a drive and scan
